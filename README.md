@@ -30,6 +30,6 @@ Un currículum vitae simple creado con nociones básicas de HTML y CSS.
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
 
 ## Encontrame en LinkedIn
-- LinkedIn: [https://www.linkedin.com/in/javier-llano-826ab9252/]
+- [LinkedIn](https://www.linkedin.com/in/javier-llano-826ab9252/)
 
 ¡Gracias por visitar mi perfil! 😊
