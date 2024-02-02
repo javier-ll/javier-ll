@@ -26,6 +26,9 @@ Proyecto que trabaja con una base de datos utilizando bibliotecas populares como
 ### CV HTML Básico
 Un currículum vitae simple creado con nociones básicas de HTML y CSS.
 
+### FUNDAMENTOS DE CONSUMO Y CONSTRUCCIÓN DE APIs
+Proyecto donde se creó una API y se trabajó con una base de datos de personas. Cada persona en la base de datos tiene atributos como nombre, lenguaje, ID, biografía y versión.
+
 
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
 
