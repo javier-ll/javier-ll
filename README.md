@@ -35,6 +35,9 @@ Mediante los algoritmos KNN y KMeans implementados de cero en Python, se realiz�
 ### Controlador de accionamiento de motor de CA síncrono con excitación por imanes permanentes para manipular el movimiento de un brazo robótico
 Este proyecto abarca el análisis, modelado y simulación del sistema a lazo abierto, la implementación de una acción de control a lazo cerrado mediante un controlador en cascada y un observador de orden reducido. Se simuló este sistema completo considerando sensores y actuadores ideales, como también defectuosos. Por último se realizaron un controlador y observador discretos por método Tustin y se realizó una verificación final.
 
+### Luna Lander
+Se utilizó Processing para diseñar un videojuego del estilo Luna Lander de Atari. El jugador debe aterrizar la nave en una superficie bajo ciertas condiciones de velocidad y orientación del vehículo espacial.
+
 
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
 
