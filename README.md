@@ -1,7 +1,7 @@
 👋 ¡Hola, soy Javier Llano! 👋
 
 👤 Acerca de mí
-- Soy un entusiasta de la programación apasionado por la tecnología, el desarrollo web y la inteligencia artificial. Disfruto creando aplicaciones que puedan hacer la vida de las personas más sencilla.
+- Soy un entusiasta de la programación apasionado por la tecnología y la inteligencia artificial.
 - Soy estudiante avanzado de Ingeniería en Mecatrónica (7 materias restantes) y actualmente me encuentro explorando diferentes áreas de la programación, siempre estoy buscando aprender algo nuevo.
 
 🌱 Mis Habilidades
@@ -37,6 +37,9 @@ Este proyecto abarca el análisis, modelado y simulación del sistema a lazo abi
 
 ### Luna Lander
 Se utilizó Processing para diseñar un videojuego del estilo Luna Lander de Atari. El jugador debe aterrizar la nave en una superficie bajo ciertas condiciones de velocidad y orientación del vehículo espacial.
+
+### Control de suspensión semiactiva de cuarto de vehículo
+Se estudia el desempeño de una suspensión semiactiva en un automóvil, comparando diferentes estrategias de control: Skyhook, Groundhook e Híbrido, frente a una suspensión pasiva. Se modelaron los sensores con funciones cuantizadoras en C, cuyo ruido de cuantización se puede representar como ruido blanco uniforme. Se diseñó un filtro de Kalman para estimar todas las variables de estado a partir de las señales disponibles.
 
 
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
