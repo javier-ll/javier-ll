@@ -2,7 +2,7 @@
 
 👤 Acerca de mí
 - Soy un entusiasta de la programación apasionado por la tecnología y la inteligencia artificial.
-- Soy estudiante avanzado de Ingeniería en Mecatrónica (7 materias restantes) y actualmente me encuentro explorando diferentes áreas de la programación, siempre estoy buscando aprender algo nuevo.
+- Soy estudiante avanzado de Ingeniería en Mecatrónica (3 materias restantes) y actualmente me encuentro explorando diferentes áreas de la programación, siempre estoy buscando aprender algo nuevo.
 
 🌱 Mis Habilidades
 - Desarrollo web: HTML, CSS, JavaScript
@@ -41,6 +41,10 @@ Se utilizó Processing para diseñar un videojuego del estilo Luna Lander de Ata
 ### Control de suspensión semiactiva de cuarto de vehículo
 Se estudia el desempeño de una suspensión semiactiva en un automóvil, comparando diferentes estrategias de control: Skyhook, Groundhook e Híbrido, frente a una suspensión pasiva. Se modelaron los sensores con funciones cuantizadoras en C, cuyo ruido de cuantización se puede representar como ruido blanco uniforme. Se diseñó un filtro de Kalman para estimar todas las variables de estado a partir de las señales disponibles.
 
+### Roll & Catch
+Juego desarrollado en Unity siguiendo el tutorial del canal LuisCanary en YouTube.
+Se implementaron objetos interactivos, gestión de escenas, colisiones, mallas, música e imágenes.
+Proyecto de práctica para explorar fundamentos del desarrollo en Unity y familiarizarse con el entorno.
 
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
 
