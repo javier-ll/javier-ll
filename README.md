@@ -5,15 +5,17 @@
 - Soy estudiante avanzado de Ingeniería en Mecatrónica (3 materias restantes) y actualmente me encuentro explorando diferentes áreas de la programación, siempre estoy buscando aprender algo nuevo.
 
 🌱 Mis Habilidades
-- Desarrollo web: HTML, CSS, JavaScript
+- Desarrollo web: HTML, CSS, JavaScript, Streamlit
 - Lenguajes de programación: Python, Java, C, C++
-- Machine Learning y Data Science: TensorFlow, scikit-learn
+- Machine Learning y Data Science: TensorFlow, scikit-learn, LLMs (Groq/Llama), Whisper
 - Base de datos: MySQL
 - Herramientas de control de versiones: Git, GitHub
+- Arquitectura de Software: Clean Architecture, Modularización
 - Idiomas: Español, Inglés, Francés
 - Metodologías Ágiles: Scrum, Kanban
 
 ⭐ Mis Proyectos Destacados
+
 ### Trabajos Prácticos de Inteligencia Artificial
 Colección de trabajos prácticos relacionados con IA, incluyendo algoritmos de machine learning, lógica difusa y de búsqueda.
 
@@ -45,6 +47,9 @@ Se estudia el desempeño de una suspensión semiactiva en un automóvil, compara
 Juego desarrollado en Unity siguiendo el tutorial del canal LuisCanary en YouTube.
 Se implementaron objetos interactivos, gestión de escenas, colisiones, mallas, música e imágenes.
 Proyecto de práctica para explorar fundamentos del desarrollo en Unity y familiarizarse con el entorno.
+
+### Zenda: Asistente de Voz Modular con IA
+Desarrollo de un asistente virtual completo implementando **Clean Architecture** en Python. El sistema integra modelos de última generación: **Llama 3.1** (vía Groq) para el razonamiento, **Faster-Whisper** para transcripción de audio local y **Edge-TTS** para síntesis de voz neuronal. Cuenta con una interfaz web interactiva desarrollada en **Streamlit** que permite grabación en tiempo real, gestión de historial y reproducción de audio.
 
 Para obtener más detalles sobre mis proyectos, puedes visitar mi perfil de [GitHub](https://github.com/javier-ll).
 
