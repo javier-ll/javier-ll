@@ -22,9 +22,9 @@ El sistema integra interacciones bimanuales asimétricas personalizadas (como ha
 El proyecto se distingue por una arquitectura Stand-Alone que integra un dispositivo háptico propio basado en un ESP32-C3 Super Mini, conectado directamente al APK vía Bluetooth Low Energy (BLE) para brindar retroalimentación táctil inmediata al accionar el gatillo y liberar el agente.
 
 ### Zenda: Asistente de Voz Modular con IA
-Desarrollo de un asistente virtual completo implementando **Clean Architecture** en Python. El sistema integra modelos de última generación: **Llama 3.1** (vía Groq) para el razonamiento, **Faster-Whisper** para transcripción de audio local y **Edge-TTS** para síntesis de voz neuronal. Cuenta con una interfaz web interactiva desarrollada en **Streamlit** que permite grabación en tiempo real, gestión de historial y reproducción de audio.
+Desarrollo de un asistente virtual completo implementando Clean Architecture en Python. El sistema integra modelos de última generación: Llama 3.1 (vía Groq) para el razonamiento, Faster-Whisper para transcripción de audio local y Edge-TTS para síntesis de voz neuronal. Cuenta con una interfaz web interactiva desarrollada en Streamlit que permite grabación en tiempo real, gestión de historial y reproducción de audio.
 
-### Simulación de Control Dinámico de Dron (UAV)
+### Dron agrícola para monitoreo y análisis de cultivos
 Proyecto centrado en el diseño, modelado matemático y simulación computacional del control dinámico de un cuadricóptero para agricultura de precisión.
 Se desarrollaron los modelos cinemáticos y dinámicos utilizando los métodos de Newton-Euler y Lagrange-Euler, y se implementó un sistema de control PID en cascada para regular la posición (lazo externo) y la actitud (lazo interno). Su comportamiento se validó íntegramente siguiendo trayectorias 3D en el entorno de simulación UAV Toolbox de MATLAB, abordando el acoplamiento dinámico del sistema sin requerir la implementación física del vehículo.
 
